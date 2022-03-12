@@ -1,0 +1,17 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "RP2040 with SX1262 Lorawan module",
+    ],
+    "id": "rp2-rak11300",
+    "images": [
+    ],
+    "mcu": "rp2040",
+    "product": "RAK11300",
+    "thumbnail": "",
+    "url": "https://docs.rakwireless.com/Product-Categories/WisDuo/RAK11300-Module/Overview/",
+    "vendor": "RAKWireless"
+}
